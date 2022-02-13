@@ -1,0 +1,90 @@
+E:\SIBT\C#\C# Project\RUMI Textile\bin\Debug\netcoreapp3.1\RUMI Textile.exe
+E:\SIBT\C#\C# Project\RUMI Textile\bin\Debug\netcoreapp3.1\RUMI Textile.deps.json
+E:\SIBT\C#\C# Project\RUMI Textile\bin\Debug\netcoreapp3.1\RUMI Textile.runtimeconfig.json
+E:\SIBT\C#\C# Project\RUMI Textile\bin\Debug\netcoreapp3.1\RUMI Textile.runtimeconfig.dev.json
+E:\SIBT\C#\C# Project\RUMI Textile\bin\Debug\netcoreapp3.1\RUMI Textile.dll
+E:\SIBT\C#\C# Project\RUMI Textile\bin\Debug\netcoreapp3.1\RUMI Textile.pdb
+E:\SIBT\C#\C# Project\RUMI Textile\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\SIBT\C#\C# Project\RUMI Textile\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\SIBT\C#\C# Project\RUMI Textile\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\SIBT\C#\C# Project\RUMI Textile\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\SIBT\C#\C# Project\RUMI Textile\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\SIBT\C#\C# Project\RUMI Textile\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\SIBT\C#\C# Project\RUMI Textile\obj\Debug\netcoreapp3.1\RUMI Textile.csproj.AssemblyReference.cache
+E:\SIBT\C#\C# Project\RUMI Textile\obj\Debug\netcoreapp3.1\RUMI_Textile.formSplashScreen.resources
+E:\SIBT\C#\C# Project\RUMI Textile\obj\Debug\netcoreapp3.1\RUMI_Textile.Properties.Resources.resources
+E:\SIBT\C#\C# Project\RUMI Textile\obj\Debug\netcoreapp3.1\RUMI Textile.csproj.GenerateResource.cache
+E:\SIBT\C#\C# Project\RUMI Textile\obj\Debug\netcoreapp3.1\RUMI Textile.AssemblyInfoInputs.cache
+E:\SIBT\C#\C# Project\RUMI Textile\obj\Debug\netcoreapp3.1\RUMI Textile.AssemblyInfo.cs
+E:\SIBT\C#\C# Project\RUMI Textile\obj\Debug\netcoreapp3.1\RUMI Textile.csproj.CoreCompileInputs.cache
+E:\SIBT\C#\C# Project\RUMI Textile\obj\Debug\netcoreapp3.1\RUMI Textile.csproj.CopyComplete
+E:\SIBT\C#\C# Project\RUMI Textile\obj\Debug\netcoreapp3.1\RUMI Textile.dll
+E:\SIBT\C#\C# Project\RUMI Textile\obj\Debug\netcoreapp3.1\RUMI Textile.pdb
+E:\SIBT\C#\C# Project\RUMI Textile\obj\Debug\netcoreapp3.1\RUMI Textile.genruntimeconfig.cache
+E:\SIBT\C#\C# Project\RUMI Textile\obj\Debug\netcoreapp3.1\RUMI_Textile.formWelcome.resources
+E:\SIBT\C#\C# Project\RUMI Textile\obj\Debug\netcoreapp3.1\RUMI_Textile.formForgetPassword.resources
+E:\SIBT\C#\C# Project\RUMI Textile\obj\Debug\netcoreapp3.1\RUMI_Textile.formAddUser.resources
+E:\SIBT\C#\C# Project\RUMI Textile\obj\Debug\netcoreapp3.1\RUMI_Textile.formMainWindow.resources
+E:\SIBT\C#\C# Project\RUMI Textile\obj\Debug\netcoreapp3.1\RUMI_Textile.formSection.resources
+E:\SIBT\C#\C# Project\RUMI Textile\obj\Debug\netcoreapp3.1\RUMI_Textile.formNewOrder.resources
+E:\SIBT\C#\C# Project\RUMI Textile\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\SIBT\C#\C# Project\RUMI Textile\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\SIBT\C#\C# Project\RUMI Textile\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\SIBT\C#\C# Project\RUMI Textile\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\SIBT\C#\C# Project\RUMI Textile\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\SIBT\C#\C# Project\RUMI Textile\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\SIBT\C#\C# Project\RUMI Textile\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\SIBT\C#\C# Project\RUMI Textile\bin\Debug\netcoreapp3.1\ZstdNet.dll
+E:\SIBT\C#\C# Project\RUMI Textile\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\SIBT\C#\C# Project\RUMI Textile\obj\Debug\netcoreapp3.1\RUMI_Textile.formDisplayOrder.resources
+E:\SIBT\C#\C# Project\RUMI Textile\obj\Debug\netcoreapp3.1\RUMI_Textile.FormSelectUser.resources
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\RUMI Textile.exe
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\RUMI Textile.deps.json
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\RUMI Textile.runtimeconfig.json
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\RUMI Textile.runtimeconfig.dev.json
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\RUMI Textile.dll
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\RUMI Textile.pdb
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\ZstdNet.dll
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\SIBT\C#\C# Project\RUMI Textile Main application\obj\Debug\netcoreapp3.1\RUMI Textile.csproj.AssemblyReference.cache
+E:\SIBT\C#\C# Project\RUMI Textile Main application\obj\Debug\netcoreapp3.1\RUMI_Textile.formAddUser.resources
+E:\SIBT\C#\C# Project\RUMI Textile Main application\obj\Debug\netcoreapp3.1\RUMI_Textile.formDisplayOrder.resources
+E:\SIBT\C#\C# Project\RUMI Textile Main application\obj\Debug\netcoreapp3.1\RUMI_Textile.formForgetPassword.resources
+E:\SIBT\C#\C# Project\RUMI Textile Main application\obj\Debug\netcoreapp3.1\RUMI_Textile.formMainWindow.resources
+E:\SIBT\C#\C# Project\RUMI Textile Main application\obj\Debug\netcoreapp3.1\RUMI_Textile.formNewOrder.resources
+E:\SIBT\C#\C# Project\RUMI Textile Main application\obj\Debug\netcoreapp3.1\RUMI_Textile.formSection.resources
+E:\SIBT\C#\C# Project\RUMI Textile Main application\obj\Debug\netcoreapp3.1\RUMI_Textile.FormSelectUser.resources
+E:\SIBT\C#\C# Project\RUMI Textile Main application\obj\Debug\netcoreapp3.1\RUMI_Textile.formSplashScreen.resources
+E:\SIBT\C#\C# Project\RUMI Textile Main application\obj\Debug\netcoreapp3.1\RUMI_Textile.formWelcome.resources
+E:\SIBT\C#\C# Project\RUMI Textile Main application\obj\Debug\netcoreapp3.1\RUMI_Textile.Properties.Resources.resources
+E:\SIBT\C#\C# Project\RUMI Textile Main application\obj\Debug\netcoreapp3.1\RUMI Textile.csproj.GenerateResource.cache
+E:\SIBT\C#\C# Project\RUMI Textile Main application\obj\Debug\netcoreapp3.1\RUMI Textile.AssemblyInfoInputs.cache
+E:\SIBT\C#\C# Project\RUMI Textile Main application\obj\Debug\netcoreapp3.1\RUMI Textile.AssemblyInfo.cs
+E:\SIBT\C#\C# Project\RUMI Textile Main application\obj\Debug\netcoreapp3.1\RUMI Textile.csproj.CoreCompileInputs.cache
+E:\SIBT\C#\C# Project\RUMI Textile Main application\obj\Debug\netcoreapp3.1\RUMI Textile.csproj.CopyComplete
+E:\SIBT\C#\C# Project\RUMI Textile Main application\obj\Debug\netcoreapp3.1\RUMI Textile.dll
+E:\SIBT\C#\C# Project\RUMI Textile Main application\obj\Debug\netcoreapp3.1\RUMI Textile.pdb
+E:\SIBT\C#\C# Project\RUMI Textile Main application\obj\Debug\netcoreapp3.1\RUMI Textile.genruntimeconfig.cache
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\FireSharp.dll
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\Microsoft.Threading.Tasks.Extensions.dll
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\Microsoft.Threading.Tasks.dll
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\System.Net.Http.Extensions.dll
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\System.Net.Http.Primitives.dll
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\SIBT\C#\C# Project\RUMI Textile Main application\obj\Debug\netcoreapp3.1\RUMI_Textile.FormAddOrViewImages.resources
+E:\SIBT\C#\C# Project\RUMI Textile Main application\obj\Debug\netcoreapp3.1\RUMI_Textile.FormPrintBill.resources
+E:\SIBT\C#\C# Project\RUMI Textile Main application\bin\Debug\netcoreapp3.1\RUMI Textile.dll.config

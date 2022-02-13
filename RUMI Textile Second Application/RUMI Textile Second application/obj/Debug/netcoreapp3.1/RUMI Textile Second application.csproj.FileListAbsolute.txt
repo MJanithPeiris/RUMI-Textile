@@ -1,0 +1,57 @@
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\bin\Debug\netcoreapp3.1\RUMI Textile Second application.exe
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\bin\Debug\netcoreapp3.1\RUMI Textile Second application.deps.json
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\bin\Debug\netcoreapp3.1\RUMI Textile Second application.runtimeconfig.json
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\bin\Debug\netcoreapp3.1\RUMI Textile Second application.runtimeconfig.dev.json
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\bin\Debug\netcoreapp3.1\RUMI Textile Second application.dll
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\bin\Debug\netcoreapp3.1\RUMI Textile Second application.pdb
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI Textile Second application.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI_Textile_Second_application.FormSplashScreen.resources
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI_Textile_Second_application.Properties.Resources.resources
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI Textile Second application.csproj.GenerateResource.cache
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI Textile Second application.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI Textile Second application.AssemblyInfo.cs
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI Textile Second application.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI Textile Second application.dll
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI Textile Second application.pdb
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI Textile Second application.genruntimeconfig.cache
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI_Textile_Second_application.FormLoginScreen.resources
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI_Textile_Second_application.FormAllOrders.resources
+C:\Users\User\source\repos\RUMI Textile\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI Textile Second application.csproj.CopyComplete
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\bin\Debug\netcoreapp3.1\RUMI Textile Second application.exe
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\bin\Debug\netcoreapp3.1\RUMI Textile Second application.deps.json
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\bin\Debug\netcoreapp3.1\RUMI Textile Second application.runtimeconfig.json
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\bin\Debug\netcoreapp3.1\RUMI Textile Second application.runtimeconfig.dev.json
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\bin\Debug\netcoreapp3.1\RUMI Textile Second application.dll
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\bin\Debug\netcoreapp3.1\RUMI Textile Second application.pdb
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\bin\Debug\netcoreapp3.1\ZstdNet.dll
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI Textile Second application.csproj.AssemblyReference.cache
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI_Textile_Second_application.FormAllOrders.resources
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI_Textile_Second_application.FormLoginScreen.resources
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI_Textile_Second_application.FormOrderDetails.resources
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI_Textile_Second_application.FormSplashScreen.resources
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI_Textile_Second_application.Properties.Resources.resources
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI Textile Second application.csproj.GenerateResource.cache
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI Textile Second application.AssemblyInfoInputs.cache
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI Textile Second application.AssemblyInfo.cs
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI Textile Second application.csproj.CoreCompileInputs.cache
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI Textile Second application.csproj.CopyComplete
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI Textile Second application.dll
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI Textile Second application.pdb
+E:\SIBT\C#\C# Project\RUMI Textile Second application\RUMI Textile Second application\obj\Debug\netcoreapp3.1\RUMI Textile Second application.genruntimeconfig.cache
